@@ -1,0 +1,6 @@
+_id,name,description,quantity,price,supplier,lowStockThreshold,isLowStock
+652e1f834f9a4b0012345678,Laptop,High-performance,15,1500,652e1f834f9a4b001234567d,10,false
+652e1f834f9a4b0012345679,Office Chair,Ergonomic chair,25,200,652e1f834f9a4b001234567e,10,false
+652e1f834f9a4b001234567a,Keyboard,Mechanical keyboard,30,100,652e1f834f9a4b001234567d,10,false
+652e1f834f9a4b001234567b,Monitor,24-inch HD monitor,8,300,652e1f834f9a4b001234567f,10,true
+652e1f834f9a4b001234567c,Mouse,Wireless mouse,50,50,652e1f834f9a4b001234567d,10,false
